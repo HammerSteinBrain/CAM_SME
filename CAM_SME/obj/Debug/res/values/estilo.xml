@@ -1,0 +1,3 @@
+<resources><style name="rodrigo.Theme" parent="android:Theme"><item name="android:windowBackground">
+      @drawable/prefeitura
+    </item><item name="android:windowNoTitle">true</item></style></resources>
