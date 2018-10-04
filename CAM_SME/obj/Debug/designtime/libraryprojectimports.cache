@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Paths>
   <Jars>
-    <Jar>C:\Users\Rodrigo\Desktop\Xamarin\CAM_SME\CAM_SME\obj\Debug\lp\10\jl\bin\classes.jar</Jar>
-    <Jar>C:\Users\Rodrigo\Desktop\Xamarin\CAM_SME\CAM_SME\obj\Debug\lp\11\jl\bin\classes.jar</Jar>
-    <Jar>C:\Users\Rodrigo\Desktop\Xamarin\CAM_SME\CAM_SME\obj\Debug\lp\9\jl\support-annotations.jar</Jar>
+    <Jar>C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\lp\10\jl\support-annotations.jar</Jar>
+    <Jar>C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\lp\11\jl\bin\classes.jar</Jar>
+    <Jar>C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\lp\12\jl\bin\classes.jar</Jar>
   </Jars>
   <ResolvedResourceDirectories>
-    <ResolvedResourceDirectory>C:\Users\Rodrigo\Desktop\Xamarin\CAM_SME\CAM_SME\obj\Debug\lp\3\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\Rodrigo\Desktop\Xamarin\CAM_SME\CAM_SME\obj\Debug\lp\4\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\Rodrigo\Desktop\Xamarin\CAM_SME\CAM_SME\obj\Debug\lp\5\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\Rodrigo\Desktop\Xamarin\CAM_SME\CAM_SME\obj\Debug\lp\6\jl\res</ResolvedResourceDirectory>
-    <ResolvedResourceDirectory>C:\Users\Rodrigo\Desktop\Xamarin\CAM_SME\CAM_SME\obj\Debug\lp\7\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\lp\3\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\lp\4\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\lp\5\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\lp\6\jl\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\lp\7\jl\res</ResolvedResourceDirectory>
   </ResolvedResourceDirectories>
   <ResolvedAssetDirectories>
     <ResolvedAssetDirectory>obj\Debug\lp\3\jl\assets</ResolvedAssetDirectory>
@@ -21,10 +21,10 @@
   </ResolvedAssetDirectories>
   <ResolvedEnvironmentFiles />
   <ResolvedResourceDirectoryStamps>
-    <ResolvedResourceDirectoryStamp>C:\Users\Rodrigo\Desktop\Xamarin\CAM_SME\CAM_SME\obj\Debug\lp\3.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\Rodrigo\Desktop\Xamarin\CAM_SME\CAM_SME\obj\Debug\lp\4.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\Rodrigo\Desktop\Xamarin\CAM_SME\CAM_SME\obj\Debug\lp\5.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\Rodrigo\Desktop\Xamarin\CAM_SME\CAM_SME\obj\Debug\lp\6.stamp</ResolvedResourceDirectoryStamp>
-    <ResolvedResourceDirectoryStamp>C:\Users\Rodrigo\Desktop\Xamarin\CAM_SME\CAM_SME\obj\Debug\lp\7.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\lp\3.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\lp\4.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\lp\5.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\lp\6.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\lp\7.stamp</ResolvedResourceDirectoryStamp>
   </ResolvedResourceDirectoryStamps>
 </Paths>
