@@ -68,7 +68,7 @@ namespace CAM_SME
                 //se não for nulo
                 if (login != null)
                 {
-                    Toast.MakeText(this, "Login realizado com sucesso", ToastLength.Short).Show();
+                    Toast.MakeText(this, "Login realizado com sucesso!", ToastLength.Short).Show();
 
                     var atividade2 = new Intent(this, typeof(Tela2));
                     //declara a intent de enviar a var atividade2 e abrir a tela LoginActivity
