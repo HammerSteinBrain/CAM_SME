@@ -1,0 +1,2 @@
+android.app.Application
+CAM_SME.CAM_SME
