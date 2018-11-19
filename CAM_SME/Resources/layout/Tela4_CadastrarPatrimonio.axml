@@ -14,9 +14,9 @@
             android:text="SCAM Mobile"
             android:gravity="center"
             android:textAppearance="?android:attr/textAppearanceLarge"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:id="@+id/txtviewSEC" />
+            android:id="@+id/txtviewSCAM" />
         <TextView
             android:text="Secretaria Municipal de Educação"
             android:gravity="center"

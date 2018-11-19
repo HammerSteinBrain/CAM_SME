@@ -65,12 +65,12 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:id="@+id/txtDescricao_view" />
-            <Button
-                android:text="Deletar Patrimonio"
-                android:layout_width="match_parent"
-                android:layout_height="wrap_content"
-                android:background="#ee4073"
-                android:id="@+id/btnDeletarPatr" />
         </LinearLayout>
+        <Button
+            android:text="Deletar Patrimonio"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#ee4073"
+            android:id="@+id/btnDeletar" />
     </LinearLayout>
 </ScrollView>

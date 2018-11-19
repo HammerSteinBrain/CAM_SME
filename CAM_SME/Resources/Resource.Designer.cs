@@ -69,32 +69,32 @@ namespace CAM_SME
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f060017
-			public const int btnBuscarPatrimonio = 2131099671;
+			// aapt resource value: 0x7f060018
+			public const int btnBuscarPatrimonio = 2131099672;
 			
-			// aapt resource value: 0x7f060019
-			public const int btnBuscarQRcode = 2131099673;
+			// aapt resource value: 0x7f06001a
+			public const int btnBuscarQRcode = 2131099674;
 			
 			// aapt resource value: 0x7f060008
 			public const int btnCadastrarPatrimonio = 2131099656;
 			
-			// aapt resource value: 0x7f060021
-			public const int btnDeletarPatr = 2131099681;
+			// aapt resource value: 0x7f060022
+			public const int btnDeletar = 2131099682;
 			
 			// aapt resource value: 0x7f06000b
 			public const int btnDeletarPatrimonios = 2131099659;
 			
-			// aapt resource value: 0x7f060020
-			public const int btnEditPatrimonio = 2131099680;
+			// aapt resource value: 0x7f060021
+			public const int btnEditPatrimonio = 2131099681;
 			
 			// aapt resource value: 0x7f06000a
 			public const int btnEditarPatrimonios = 2131099658;
 			
-			// aapt resource value: 0x7f060013
-			public const int btnFotografar = 2131099667;
+			// aapt resource value: 0x7f060014
+			public const int btnFotografar = 2131099668;
 			
-			// aapt resource value: 0x7f060012
-			public const int btnGravar = 2131099666;
+			// aapt resource value: 0x7f060013
+			public const int btnGravar = 2131099667;
 			
 			// aapt resource value: 0x7f060004
 			public const int btnLogin = 2131099652;
@@ -105,50 +105,50 @@ namespace CAM_SME
 			// aapt resource value: 0x7f060009
 			public const int btnVisualizarPatrimonios = 2131099657;
 			
-			// aapt resource value: 0x7f060014
-			public const int imageView1 = 2131099668;
+			// aapt resource value: 0x7f060015
+			public const int imageView1 = 2131099669;
 			
 			// aapt resource value: 0x7f060006
 			public const int linearLayout1 = 2131099654;
 			
-			// aapt resource value: 0x7f060015
-			public const int txt = 2131099669;
-			
 			// aapt resource value: 0x7f060016
-			public const int txtBuscarPP = 2131099670;
+			public const int txt = 2131099670;
 			
-			// aapt resource value: 0x7f060018
-			public const int txtBuscarQRcode = 2131099672;
+			// aapt resource value: 0x7f060017
+			public const int txtBuscarPP = 2131099671;
 			
-			// aapt resource value: 0x7f060011
-			public const int txtDescricao = 2131099665;
+			// aapt resource value: 0x7f060019
+			public const int txtBuscarQRcode = 2131099673;
 			
-			// aapt resource value: 0x7f06001c
-			public const int txtDescricao_view = 2131099676;
-			
-			// aapt resource value: 0x7f06001f
-			public const int txtEditDescricao = 2131099679;
-			
-			// aapt resource value: 0x7f06001e
-			public const int txtEditNome = 2131099678;
+			// aapt resource value: 0x7f060012
+			public const int txtDescricao = 2131099666;
 			
 			// aapt resource value: 0x7f06001d
-			public const int txtEditPP = 2131099677;
+			public const int txtDescricao_view = 2131099677;
 			
-			// aapt resource value: 0x7f060010
-			public const int txtNomeItem = 2131099664;
+			// aapt resource value: 0x7f060020
+			public const int txtEditDescricao = 2131099680;
 			
-			// aapt resource value: 0x7f06001b
-			public const int txtNome_view = 2131099675;
+			// aapt resource value: 0x7f06001f
+			public const int txtEditNome = 2131099679;
+			
+			// aapt resource value: 0x7f06001e
+			public const int txtEditPP = 2131099678;
+			
+			// aapt resource value: 0x7f060011
+			public const int txtNomeItem = 2131099665;
+			
+			// aapt resource value: 0x7f06001c
+			public const int txtNome_view = 2131099676;
 			
 			// aapt resource value: 0x7f06000d
 			public const int txtNovoUsuario = 2131099661;
 			
-			// aapt resource value: 0x7f06000f
-			public const int txtPP = 2131099663;
+			// aapt resource value: 0x7f060010
+			public const int txtPP = 2131099664;
 			
-			// aapt resource value: 0x7f06001a
-			public const int txtPP_view = 2131099674;
+			// aapt resource value: 0x7f06001b
+			public const int txtPP_view = 2131099675;
 			
 			// aapt resource value: 0x7f060003
 			public const int txtSenha = 2131099651;
@@ -167,6 +167,9 @@ namespace CAM_SME
 			
 			// aapt resource value: 0x7f06000c
 			public const int txtviewRegistrar = 2131099660;
+			
+			// aapt resource value: 0x7f06000f
+			public const int txtviewSCAM = 2131099663;
 			
 			// aapt resource value: 0x7f060000
 			public const int txtviewSEC = 2131099648;

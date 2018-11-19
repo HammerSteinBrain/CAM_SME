@@ -42,7 +42,13 @@ namespace CAM_SME
             btnEditarPatrimonios.Click += BtnEditarPatrimonios_Click;
 
             //instancia btn Deletar Patrimonios
-            
+            Button btnDeletarPatrimonios = FindViewById<Button>(Resource.Id.btnDeletarPatrimonios);
+            btnDeletarPatrimonios.Click += BtnDeletarPatrimonios_Click;
+        }
+
+        private void BtnDeletarPatrimonios_Click(object sender, EventArgs e)
+        {
+            StartActivity(typeof(Tela7_DeletarPatrimonio));
         }
 
         private void BtnEditarPatrimonios_Click(object sender, EventArgs e)
