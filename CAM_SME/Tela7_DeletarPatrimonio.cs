@@ -50,9 +50,14 @@ namespace CAM_SME
 
                 var db = new SQLiteConnection(dbPath);//inicia conexão
 
-                db.Table<Patrimonio>().Delete(x => x.PP == Convert.ToInt32(txtPP_view.Text));
-                //funcao que deleta x.PP == txtPP_view.Text
-                
+                db.Table<Patrimonio>().Delete(x => (x.PP.Equals(txtBuscarPP.Text)));
+                //funcao que deleta x.PP == txtBuscarPP.text
+
+                txtPP_view.Text = "";
+                txtNome_view.Text = "";
+                txtDescricao_view.Text = "";
+
+                Toast.MakeText(this,"Deletado com sucesso!", ToastLength.Long).Show();
             }
             catch (Exception ex)
             {
