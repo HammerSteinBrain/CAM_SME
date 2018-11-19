@@ -53,3 +53,8 @@ Tela 6: Tela Alterar Patrimônio
 
 ![alt text](https://github.com/HammerSteinBrain/CAM_SME/blob/master/cam-app/Tela_Alterar_Patrimonio.png)
 
+Tela 7: Tela Deletar Produtos
+
+![alt text](https://github.com/HammerSteinBrain/CAM_SME/blob/master/cam-app/Tela7_DeletarPatrimonio.png)
+
+
