@@ -74,15 +74,15 @@ C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\bin\Debug\Xamarin.Android.Support.Core.
 C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\bin\Debug\Plugin.CurrentActivity.xml
 C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\bin\Debug\Plugin.Permissions.xml
 C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\bin\Debug\SQLite-net.xml
-C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\CAM_SME.csprojResolveAssemblyReference.cache
 C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\CAM_SME.dll
 C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\CAM_SME.pdb
 C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\android\bin\CAM_SME.CAM_SME.apk
 C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\res\layout\tela3_novo_usuario.xml
-C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\res\layout\tela2.xml
+C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\res\layout\tela2_menu.xml
 C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\res\layout\tela4_cadastrarpatrimonio.xml
-C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\res\layout\tela5_visualizarpatrimonios.xml
+C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\res\layout\tela5_visualizarpatrimonio.xml
 C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\res\layout\tela6_editarpatrimonios.xml
+C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\res\layout\tela7_deletarpatrimonio.xml
 C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\res\layout\tela1_login.xml
 C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\res\values\strings.xml
 C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\res\drawable\prefeitura.png
@@ -115,7 +115,6 @@ C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\linksrc\System.ComponentModel
 C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\linksrc\CAM_SME.dll.mdb
 C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\bin\Debug\CAM_SME.dll.mdb
 C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\android\assets\CAM_SME.dll.mdb
-C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\android\assets\Mono.Android.pdb
 C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\android\assets\Mono.Security.pdb
 C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\android\assets\mscorlib.pdb
 C:\Users\Rodrigo\Desktop\CAM_SME\CAM_SME\obj\Debug\android\assets\System.ComponentModel.Composition.pdb

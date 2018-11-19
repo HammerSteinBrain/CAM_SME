@@ -70,7 +70,7 @@ namespace CAM_SME
                 {
                     Toast.MakeText(this, "Login realizado com sucesso!", ToastLength.Short).Show();
 
-                    var atividade2 = new Intent(this, typeof(Tela2));
+                    var atividade2 = new Intent(this, typeof(Tela2_Menu));
                     //declara a intent de enviar a var atividade2 e abrir a tela LoginActivity
                     //mas não executa a intent
 

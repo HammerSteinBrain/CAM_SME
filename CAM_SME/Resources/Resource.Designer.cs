@@ -78,6 +78,9 @@ namespace CAM_SME
 			// aapt resource value: 0x7f060008
 			public const int btnCadastrarPatrimonio = 2131099656;
 			
+			// aapt resource value: 0x7f060021
+			public const int btnDeletarPatr = 2131099681;
+			
 			// aapt resource value: 0x7f06000b
 			public const int btnDeletarPatrimonios = 2131099659;
 			
@@ -185,7 +188,7 @@ namespace CAM_SME
 			public const int Tela1_Login = 2130903040;
 			
 			// aapt resource value: 0x7f030001
-			public const int Tela2 = 2130903041;
+			public const int Tela2_Menu = 2130903041;
 			
 			// aapt resource value: 0x7f030002
 			public const int Tela3_Novo_usuario = 2130903042;
@@ -194,10 +197,13 @@ namespace CAM_SME
 			public const int Tela4_CadastrarPatrimonio = 2130903043;
 			
 			// aapt resource value: 0x7f030004
-			public const int Tela5_VisualizarPatrimonios = 2130903044;
+			public const int Tela5_VisualizarPatrimonio = 2130903044;
 			
 			// aapt resource value: 0x7f030005
 			public const int Tela6_EditarPatrimonios = 2130903045;
+			
+			// aapt resource value: 0x7f030006
+			public const int Tela7_DeletarPatrimonio = 2130903046;
 			
 			static Layout()
 			{

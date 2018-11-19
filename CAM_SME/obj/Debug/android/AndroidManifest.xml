@@ -15,11 +15,12 @@
       </intent-filter>
     </activity>
     <activity android:icon="@drawable/logo" android:label="Sistema SCAM Mobile" android:name="md53cf738c0d2d67ae652708e85e9e4146a.Tela1_Login" />
-    <activity android:icon="@drawable/logo" android:label="Sistema SCAM Mobile" android:name="md53cf738c0d2d67ae652708e85e9e4146a.Tela2" />
+    <activity android:icon="@drawable/logo" android:label="Sistema SCAM Mobile" android:name="md53cf738c0d2d67ae652708e85e9e4146a.Tela2_Menu" />
     <activity android:icon="@drawable/logo" android:label="Sistema SCAM Mobile" android:name="md53cf738c0d2d67ae652708e85e9e4146a.Tela3_Novo_Usuario" />
     <activity android:icon="@drawable/logo" android:label="Sistema SCAM Mobile" android:name="md53cf738c0d2d67ae652708e85e9e4146a.Tela4_CadastrarPatrimonio" />
-    <activity android:icon="@drawable/logo" android:label="Sistema SCAM Mobile" android:name="md53cf738c0d2d67ae652708e85e9e4146a.Tela5_VisualizarPatrimonios" />
+    <activity android:icon="@drawable/logo" android:label="Sistema SCAM Mobile" android:name="md53cf738c0d2d67ae652708e85e9e4146a.Tela5_VisualizarPatrimonio" />
     <activity android:icon="@drawable/logo" android:label="Sistema SCAM Mobile" android:name="md53cf738c0d2d67ae652708e85e9e4146a.Tela6_EditarPatrimonio" />
+    <activity android:icon="@drawable/logo" android:label="Sistema SCAM Mobile" android:name="md53cf738c0d2d67ae652708e85e9e4146a.Tela7_DeletarPatrimonio" />
     <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="CAM_SME.CAM_SME.mono.MonoRuntimeProvider.__mono_init__" />
     <!--suppress ExportedReceiver-->
     <receiver android:name="mono.android.Seppuku">
