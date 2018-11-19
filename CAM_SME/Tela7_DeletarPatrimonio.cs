@@ -28,12 +28,36 @@ namespace CAM_SME
 
             SetContentView(Resource.Layout.Tela7_DeletarPatrimonio);
 
-            //Instancia edit text pp patrimonial
+            //Instancia edit text placa patrimonial
             txtBuscarPP = FindViewById<EditText>(Resource.Id.txtBuscarPP);
 
-            //instancia btn Buscar
+            //instancia btn Buscar placa patrimonial
             Button btnBuscar = FindViewById<Button>(Resource.Id.btnBuscarPatrimonio);
-            btnBuscar.Click += BtnBuscar_Click;     
+            btnBuscar.Click += BtnBuscar_Click;
+
+            //instancia btn DELETAR
+            Button btnDeletar = FindViewById<Button>(Resource.Id.btnDeletar);
+            btnDeletar.Click += BtnDeletar_Click;   
+        }
+
+        private void BtnDeletar_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                string dbPath = System.IO.Path.Combine(System.Environment.GetFolderPath
+                    (System.Environment.SpecialFolder.Personal), "Patrimonio.db3");
+                //path (caminho do banco no sistema) procura o banco "Patrimonio.db3"
+
+                var db = new SQLiteConnection(dbPath);//inicia conexão
+
+                db.Table<Patrimonio>().Delete(x => x.PP == Convert.ToInt32(txtPP_view.Text));
+                //funcao que deleta x.PP == txtPP_view.Text
+                
+            }
+            catch (Exception ex)
+            {
+                Toast.MakeText(this, ex.ToString(), ToastLength.Long).Show();
+            }
         }
 
         private void BtnBuscar_Click(object sender, EventArgs e)
